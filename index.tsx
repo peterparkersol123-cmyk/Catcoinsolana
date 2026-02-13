@@ -492,7 +492,6 @@ function History() {
     { year: '2013', title: 'Genesis Block', desc: 'Catcoin launches on December 23, 2013 — the first-ever cat-themed cryptocurrency. Created by @kr105rlz as a feline response to Dogecoin.' },
     { year: '2013', title: 'PID Innovation', desc: 'Becomes the first Proof-of-Work coin to implement PID (Proportional-Integral-Derivative) control in civilian application.' },
     { year: '2013', title: 'BitcoinTalk Announcement', desc: 'The original announcement thread is posted on BitcoinTalk, establishing Catcoin\'s presence in the crypto community.' },
-    { year: '2024', title: 'Community Revival', desc: 'After the original community channels were deleted by early deployers, the creator returns to CTO the project and restore its vision.' },
     { year: '2025', title: 'Pump.fun Launch', desc: 'Catcoin gets a fresh start on Solana via Pump.fun, bringing the OG cat meme coin to a new generation of degens.' },
   ];
 
